@@ -1,0 +1,17 @@
+컨트롤러
+1) (PP-A188) L9110 / HG7881 2채널 모터 드라이버 모듈
+[https://parts-parts.co.kr/product/pp-a188-l9110-hg7881-2%EC%B1%84%EB%84%90-%EB%AA%A8%ED%84%B0-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EB%AA%A8%EB%93%88/228/category/88/display/1/]
+
+
+
+
+1. 모터 컨트롤 - > 주행,정지
+
+#​아두이노와  L9110 모터드라이버로 모터 제어하기
+[https://blog.naver.com/PostView.naver?blogId=roboholic84&logNo=221067084440&categoryNo=42&parentCategoryNo=0]
+
+# RC카 (1)
+[https://www.youtube.com/watch?v=t_Za7G38YFU]
+
+# RC카 (2)
+[https://www.youtube.com/watch?v=V0byaiK1lXE]
